@@ -10,11 +10,11 @@
 
 # 💫 About Me:
 🔭 I’m currently working on EbizLatinAmerica [EbizLatin](https://www.ebiz.pe/) <br>
-👯 I’m looking to collaborate on DataScienceResearchPeru<br>
+👯 I am collaborating with DataScienceResearchPeru [DSRP](https://www.datascience.pe/)<br>
 🤝 I’m looking for help with <br>
 🌱 I’m currently learning Graphql, Microfront, Docker<br>
-💬 Ask me about<br>
-⚡ Fun fact
+💬 Ask me about - Frontend / Backend (Typescript)<br>
+⚡ Fun fact - Bachelor of the Peruvian Army
 
 
 ## 🌐 Socials:
