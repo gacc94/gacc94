@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=gacc94&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on EbizLatinAmerica [![EbizLatin](https://www.ebiz.pe/) [! <br>
+🔭 I’m currently working on EbizLatinAmerica [EbizLatin](https://www.ebiz.pe/) <br>
 👯 I’m looking to collaborate on DataScienceResearchPeru<br>
 🤝 I’m looking for help with <br>
 🌱 I’m currently learning Graphql, Microfront, Docker<br>
