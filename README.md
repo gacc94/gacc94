@@ -1,4 +1,10 @@
  <h1 align="center">Hi 👋, I'm Gustavo Caqui</h1>
+---
+[![](https://visitcount.itsvg.in/api?id=gacc94&icon=0&color=1)](https://visitcount.itsvg.in)
+
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gacc94&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 # 💫 About Me:
 🔭 I’m currently working on EbizLatinAmerica <br>👯 I’m looking to collaborate on DataScienceResearchPeru<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Graphql, Microfront, Docker<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -13,8 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gacc94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gacc94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gacc94&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -25,8 +30,7 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=gacc94&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
